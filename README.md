@@ -7,3 +7,9 @@
 ###### **_npm i_**
 
 ###### **_npm start_**
+
+<hr>
+
+#### <mark> Pay Attention </mark>
+
+###### If you have a program that is already running on PORT 8000, you need to disconnect it; otherwise, the server will throw an error.
