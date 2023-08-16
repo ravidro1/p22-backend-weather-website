@@ -2,11 +2,11 @@
 
 ###### Clone the repository
 
-###### create .env file and add - <mark> WEATHER_API_KEY="90e9aa3641dd4b31a09190503231208" </mark>
+###### create .env file and add - `WEATHER_API_KEY="90e9aa3641dd4b31a09190503231208"`
 
-###### **_npm i_**
+###### `npm i`
 
-###### **_npm start_**
+###### `npm start`
 
 <hr>
 
