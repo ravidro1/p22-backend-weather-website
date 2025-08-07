@@ -2,7 +2,7 @@
 
 ###### Clone the repository
 
-###### create .env file and add - `WEATHER_API_KEY="90e9aa3641dd4b31a09190503231208"`
+###### create .env file and add - `WEATHER_API_KEY="4d4661f23deb4f54a11140501250708"`
 
 ###### `npm i`
 
